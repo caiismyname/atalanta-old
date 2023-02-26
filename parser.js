@@ -1,5 +1,4 @@
 const examples = require('./examples.json');
-// console.log(examples['examples']);
 
 function print(x) {
     console.log(x)
@@ -528,6 +527,21 @@ function printSets(sets) {
             }
 
             output += indented("Laps: " + lapDetails.slice(0, -2)) // slice to remove ending ", "
+        } else if (set.laps.length === 1 && metersToMiles(set.laps[0].distance) > 1) {
+            // List the splits
+            let tokenLap = set.laps[0]
+            if ("component_laps" in tokenLap) {
+                let splits = ""
+
+                for (let lap of tokenLap.component_laps) {
+                    if (metersToMiles(lap.distance) >= .5) {
+                        splits += pacePerMileFormatted(lap) + "/mi, "
+                    }
+                }
+
+                output += indented("Splits: " + splits.slice(0, -2))
+            }
+
         }
 
         output += "\n"
