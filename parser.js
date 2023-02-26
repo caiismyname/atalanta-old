@@ -254,26 +254,15 @@ function computeBasis(workoutLaps) {
     let lapTimes = workoutLaps.map(lap => lap.moving_time)
     let totalTime = lapTimes.reduce((a, b) => a + b, 0)
     let lapTimesNormalized = lapTimes.map(time => time / totalTime)
-    let avgLapTime = totalTime / workoutLaps.length
-    let lapTimeStdDev = standardDeviation(lapTimes)
 
     let lapDistances = workoutLaps.map(lap => lap.distance)
     let totalDistance = lapDistances.reduce((a, b) => a + b, 0)
     let lapDistancesNormalized = lapDistances.map(distance => distance / totalDistance)
-    let avgLapDistance = totalDistance / workoutLaps.length
-    let lapDistanceStdDev = standardDeviation(lapDistances)
 
     let timeStdDev = standardDeviation(lapTimesNormalized)
     let distanceStdDev = standardDeviation(lapDistancesNormalized)
 
-    // let timeScore = avgLapTime / lapTimeStdDev
-    // let distanceScore = avgLapDistance / lapDistanceStdDev
-
-    // print("timeStdD " + timeStdDev)
-    // print("distStdD " + distanceStdDev)
-
     if (timeStdDev < distanceStdDev) {
-    // if (timeScore < distanceScore) {
         return "TIME"
     } else {
         return "DISTANCE"
@@ -619,15 +608,6 @@ function standardDeviation(items) {
 
 function arraysAreEqual(a, b) {
     return a.length === b.length && a.every((val, index) => val === b[index]);
-}
-
-function newArrayWithNNested(n) {
-    var result = []
-    for (let i = 0; i < n; i++) {
-        result.push([])
-    }
-
-    return result
 }
 
 function metersToMiles(meters) {

@@ -38076,6 +38076,4728 @@
     "heartrate",
     "pace"
   ]
+},
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 7786466,
+    "resource_state": 1
+  },
+  "name": "4 x 2mi @ 5:30, 1mi (cut the last rep short) w/ 0.5mi jog",
+  "distance": 22772.2,
+  "moving_time": 5334,
+  "elapsed_time": 6403,
+  "total_elevation_gain": 37.7,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 3,
+  "id": 8601593184,
+  "start_date": "2023-02-21T23:06:43Z",
+  "start_date_local": "2023-02-21T18:06:43Z",
+  "timezone": "(GMT-05:00) America/New_York",
+  "utc_offset": -18000,
+  "location_city": null,
+  "location_state": null,
+  "location_country": "United States",
+  "achievement_count": 2,
+  "kudos_count": 21,
+  "comment_count": 2,
+  "athlete_count": 4,
+  "photo_count": 0,
+  "map": {
+    "id": "a8601593184",
+    "polyline": "wgzrFns~iMDo@R}@AUGUHsAE_AHw@ToAJqCE_@j@qFNcCRmB@c@Hi@N}BQc@Wi@Sm@Ks@Q_AYe@[WQi@M}@AWPk@@YEMFo@Cg@AEFmACiAC]F_@Xw@FEv@RZDf@GfA?d@M|@KV]b@wAj@q@Tm@VWTe@JcCNk@V_@r@uA|@sANi@@GEUSj@g@b@Mb@KNIRE@CDOv@_@~@Kh@?|AQbB_@p@E\\c@v@cAlAi@XKRJJWZCJ?JDHXTPGVYNc@VYTk@h@y@LIj@_AZc@NIZB^ZXp@F~@A\\IR]r@]b@S`@[b@c@LUBWC_@SMQKUGq@Ny@`CeD^]b@@TTP^R|@?d@K\\OZqAbBUTg@La@E_@YIMO]Ca@Hq@DG~@oAXg@Z_@ROTEJ?b@LFDVd@PfAA^CFw@dAUd@WVW`@c@Bc@Gg@]Ue@Ae@Ly@n@iAt@aA`@_@h@AZTTr@[tCBCTk@B[Gq@GQ]YIC[@QDOHk@z@o@nAIZC\\B^Ld@LNNHPDN?NCTMv@gAn@_BDi@Ei@IQa@a@OEQAOFUPwAhCIPI^?RDb@HRRX^LF?PAVKLOVm@T_@Na@Xe@Dg@@a@GSO]MKOGYAWHQNuAhCM\\GVAVD^DHZ^PJ\\BVGNIPW^{@Ze@Nw@DgAOe@a@WQEOBa@REFmAjCKf@?JFx@HNNJd@Pb@ILIFGTc@|@}BDUAk@GU[_@YMY?ODOJMRUf@{@~AI\\@z@Xn@PLd@FPCNGLSp@mB\\m@Ja@@ICa@GWOYSSQEM@YJWVsA|BM`@EV@b@J\\T`@PJTFZANINQVm@`AkBF]@o@GUW_@OG]GO@OFOLe@r@{@|AIPE`@Bb@P`@LNb@NH@XCTOxAcCNi@@o@E_@ISMQOG[C[DMFUTuA|BK^?^BRHRZ^`@TH@N@REVUR]DQz@_BNg@@e@Qi@QOOIc@GS?SHWZgAbBUb@Ml@@NLf@Zd@HHd@@FAb@MJGT_@~@}BN{@?GIi@_@_@g@Ie@R]d@{@zAQROl@Bj@Xj@`@Zl@?d@QR[Rq@p@qABUAo@EUISKOWISAWDWNk@z@s@pASd@ARFd@h@r@RB`@?XIJOJ[z@cBDUBc@@a@Mi@KQKIOE[@_@Tq@fAk@fAO\\I`@?JJh@NRVLT@^C^SDQTYn@kBFSHg@Cg@CGQUOIOCY@YNKLg@x@u@|AIR@f@F\\JZPNNFb@CVKNOVk@TWn@aBBSAm@EQOWQG[GQ?YP_@h@gAnBM^CT?TDVTb@PF|@@\\ODEP]Z_Ab@u@@]CcASc@MKOEOCQFWPi@z@m@jAOZERA^DTPb@JHd@JT@NC^Y^q@d@_BTc@@I@UEQGQQUa@MQAYHOJW^o@jAc@`ACPBb@BPPb@LJZFZAZMPWd@mATe@TYJa@@a@ESSa@QMQEU?]JEDq@bAOd@i@`AEVATBZP`@LLd@NTCXILKDG@MPs@\\a@h@mA@k@E_@IOMKOG[AYFUPkB|CEV?\\DRJPTXVLP@j@InAoC`@]DSCi@Oi@YYMGc@ESFSLU\\aAhBUl@ENBp@Xd@d@VJBf@GDEZ[tAgCL]Bg@Mm@c@]GCc@Aa@Lc@h@kAvBOn@@d@Vj@BD^Tf@A`@Un@kA\\}@LUJ]@UEa@O]OMOI[AYHWTqA~BUp@?RBNNZLN^TPDPALGVa@Pe@jAwB@SGe@EQSYOKWEa@FOJYb@m@hAc@|@AHCR@f@FRHNTRNFP@PA^OJO|@mBV_@BIBo@Ea@Sg@OKOEIAS@[LGDm@hAe@n@Qh@CV@b@Rf@TNd@JRAPGPS`@s@x@gBBk@AUESKSGGKEQC[ASBOJiAhBYl@K^?b@BTJZTRPHd@@ZQJOb@y@J]Tc@NQFQAcAGSQUk@QG?WH[^u@pAY^Od@CRD^Pd@PVNHRDPAXKX[\\s@r@yADUCk@K]IQMMOEYCQBOHMLsA|BOd@CTB`@JTRVTPHB`@@NCl@cA|@mBD_@Aa@CUSa@UM[AM@WLY\\uA~BIj@Db@Xb@VRPDX?XCZ[hA}BFSBWAo@ISQYOKMG[AQDWRMPy@rAUd@ITC`@Pl@^h@PHZBPANIb@o@dAoBb@i@WWKUBIO_@]QQESAODa@^]b@]f@a@t@Kp@Jr@\\f@j@Nf@?HGd@mAf@gAT{@@IC]GSY]YM[@WFQR{@|AYl@G^CTB`@FRPXTNLDX@TKJIdAsB`@cABUAWESISSU_@I_@BQFST}@nB[h@G^?VJ^DHVVj@JN?VMTYLU^cAXi@HSBWCc@Mi@IMUMe@AQDOJ]h@}@~AKl@Cb@@TNd@JLNFr@@f@Wd@}@Ng@`@y@DI@U?WM_@Q[UO]CQBWPMLsAfCK^A`@Nr@HNPHPAj@GLODSXk@NQPKVWPi@DU?o@GUOWUO[GQBQDSR{ArCK\\ATB`@Vd@NJ`@LF@`@AFCJQR{@d@}@RYJ[DWOw@GQUSOG]AOFOHeB`DGh@APF^\\j@PFR@l@EFEDIBQFQTa@FS`@_ATo@MaAMOMG[CUBg@ZwAhCMn@?TPj@JLVNVDXCVKLMJQTq@f@_AL]BWAa@AQO_@OMYIQ?YHMHMN[n@q@nAMZCTA`@DTFRLNPH\\Db@GLKp@sAr@eAL[?]Ee@Q[]Ua@A]LQPm@z@s@zAET@r@Rf@XT`@DL?VSv@_B\\k@Rs@@e@EWIUMOYMIAa@@QJQVe@|@c@~@K\\CT?`@BPLXJLNHPDP?VENKT_@l@oARWHQH_@?_@E_@M[MMUKS?QBWNy@nAo@nAETAT@TVt@LJ`@JN?b@Wp@aB\\i@Tm@BUEWGUWc@MIa@B]JOLo@jAAHk@jAERHv@JZLJPH`@BLCNINWb@iAd@w@Ni@?k@AII]KKWMOAYDOF_@b@[l@GRk@dAC^Bh@J\\LLVNX@PARORWlAiCoBoBi@r@qB`DIXa@ZGA_@c@SBYCc@Ke@EmAWM@KB?`@BVEbAGVMjAAr@Oh@AhADt@Pn@p@hAXx@VbBR`AFj@Ap@QxBKh@e@pGKl@GjBMt@?t@OfBAt@Ir@MjBMt@CfAGf@Fr@QnB",
+    "resource_state": 3,
+    "summary_polyline": "wgzrFns~iMRmH^gCDqDjBoT{AoFuAeDL_Kh@}ArAXrEa@jDsGZoDhCiEJgAyCvG]jFiAfCmBfB[fAp@b@tEkHj@Ex@lAD|AuBpDqALm@e@SgApC_FbA[f@t@RbBmB|C_B\\}@gBhBqDpAu@j@Rh@lBsArCo@x@gAC}@cAAe@Ly@dBkCjAa@p@hAWpCPyBkAm@mAjA}@hCPdA~@^|AyAt@iCO{@q@g@w@VkBzDb@dBpA?dBeDFiAe@}@sANkB~Dd@`BvAA|AqDDgAq@}@iAXyArD`@`B~AIxAwDe@aBsABiBxDZjBv@Tn@_@zA}DIcAc@m@qA^gBvDt@nBpAU`BwD]eB}AFqBdEb@tA|AAhBmD[uBuA@wBrDBr@d@r@z@Xj@[dBwDOoAa@YkA@cCpEt@fB|AUdByEi@qAmAH{BbEBj@z@fAfBm@hAyCGeAm@m@cARuBfEp@xAzAUpAyDKkAg@a@{@VwBnEJt@f@`@tAU|AsEi@oAoAZgBjDf@pBzAW|AeD@aAg@q@gAHyBnEZpArBKpAsCAaBa@o@iANmBvD`@bBjBO|A_E]oA}ADkBlDTjB`BBnBgEi@eBkAJqBbE`@`BbBI`ByD[gB{ANqBtDf@|AtADvBaEm@mByAFsBdE\\vA~AL~BaEIuAc@]mAF_CpEXpAb@ZhAWfB}Dc@cB}ARgBpD`@nApAPtB_E_@eByA@mBtDDnA^b@rAGdBgDUyByACmBhDPbB`BPlBoD@aAYo@}ABoBvDd@hBrAEhBoD[mBkAG{BvDd@pBnA@pB_EY{AyAIqBpD^dBpARjBqDSyBwA?oB|CCnAXb@|ATlBmD@gA[m@kAO_CtDC`@p@vAnA@lCiEo@wAsAS_C`DKp@h@zA|AFbBqEc@yAmACoB~DXdB~A@fBwDCaA]i@eBVaBxDh@xAz@Jl@g@tAoDQmA_@[gANgBvDXlBjBM~A_Eu@cBuA^aBhEXbAnA?fBeCVoBiAeAw@\\iBfEZfAzAXlBeEQaBcBKiBjD?fA^t@zAAfBsE[qAgBReBxDt@~AvAWvAaD?kA_@m@sAHmB`EXzA`BCrBuDEcAo@q@qA\\gBlDTzAhAZlB_DNqB_@k@}@GmB`DQ~@R`A`BRfBaDB_Bq@u@u@JqBfDGv@X~@bB?dByDa@gB}ARcBtDb@~ApA?hBcEW_BqAAoBjDJfBpA\\tBqDoBoBgEjGg@e@_Fc@e@~L|ArDp@bGoAbNcB~Y"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g5583182",
+  "start_latlng": [
+    39.95,
+    -75.2
+  ],
+  "end_latlng": [
+    39.95,
+    -75.21
+  ],
+  "average_speed": 4.269,
+  "max_speed": 6.662,
+  "average_cadence": 88.7,
+  "has_heartrate": true,
+  "average_heartrate": 154.6,
+  "max_heartrate": 186,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 31.1,
+  "elev_low": 7.3,
+  "upload_id": 9234335768,
+  "upload_id_str": "9234335768",
+  "external_id": "garmin_ping_261186237249",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 149,
+  "description": "Monotonous marathon workout on the track",
+  "calories": 1259,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3063278347005769000,
+      "resource_state": 2,
+      "name": "Rodin to 34 St, via Locust Walk",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 217,
+      "moving_time": 217,
+      "start_date": "2023-02-21T23:08:32Z",
+      "start_date_local": "2023-02-21T18:08:32Z",
+      "distance": 807.6,
+      "start_index": 0,
+      "end_index": 54,
+      "average_cadence": 84.6,
+      "device_watts": false,
+      "average_heartrate": 123.8,
+      "max_heartrate": 132,
+      "segment": {
+        "id": 9872574,
+        "resource_state": 2,
+        "name": "Rodin to 34 St, via Locust Walk",
+        "activity_type": "Run",
+        "distance": 807.6,
+        "average_grade": -1.5,
+        "maximum_grade": 1.7,
+        "elevation_high": 27.8,
+        "elevation_low": 15.7,
+        "start_latlng": [
+          39.95285,
+          -75.201161
+        ],
+        "end_latlng": [
+          39.95262,
+          -75.192391
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278347003721000,
+      "resource_state": 2,
+      "name": "Locust Walk Bridge Eastbound",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2023-02-21T23:08:46Z",
+      "start_date_local": "2023-02-21T18:08:46Z",
+      "distance": 277.2,
+      "start_index": 2,
+      "end_index": 24,
+      "average_cadence": 85.2,
+      "device_watts": false,
+      "average_heartrate": 125,
+      "max_heartrate": 132,
+      "segment": {
+        "id": 11876937,
+        "resource_state": 2,
+        "name": "Locust Walk Bridge Eastbound",
+        "activity_type": "Run",
+        "distance": 277.2,
+        "average_grade": -0.8,
+        "maximum_grade": -0.6,
+        "elevation_high": 27.4,
+        "elevation_low": 25.1,
+        "start_latlng": [
+          39.952778,
+          -75.2004
+        ],
+        "end_latlng": [
+          39.952362,
+          -75.197255
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278347004940000,
+      "resource_state": 2,
+      "name": "After the bridge to 34th St",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 138,
+      "moving_time": 138,
+      "start_date": "2023-02-21T23:09:51Z",
+      "start_date_local": "2023-02-21T18:09:51Z",
+      "distance": 516.1,
+      "start_index": 20,
+      "end_index": 54,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 122.9,
+      "max_heartrate": 129,
+      "segment": {
+        "id": 9958981,
+        "resource_state": 2,
+        "name": "After the bridge to 34th St",
+        "activity_type": "Run",
+        "distance": 516.1,
+        "average_grade": -1.9,
+        "maximum_grade": 0,
+        "elevation_high": 25.5,
+        "elevation_low": 15.6,
+        "start_latlng": [
+          39.952474,
+          -75.197765
+        ],
+        "end_latlng": [
+          39.952796,
+          -75.192328
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278347005130000,
+      "resource_state": 2,
+      "name": "200ish yards",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 56,
+      "moving_time": 56,
+      "start_date": "2023-02-21T23:13:54Z",
+      "start_date_local": "2023-02-21T18:13:54Z",
+      "distance": 195.7,
+      "start_index": 86,
+      "end_index": 99,
+      "average_cadence": 84.8,
+      "device_watts": false,
+      "average_heartrate": 135.1,
+      "max_heartrate": 142,
+      "segment": {
+        "id": 19226187,
+        "resource_state": 2,
+        "name": "200ish yards",
+        "activity_type": "Run",
+        "distance": 195.7,
+        "average_grade": 1.4,
+        "maximum_grade": 3.8,
+        "elevation_high": 11.6,
+        "elevation_low": 8.8,
+        "start_latlng": [
+          39.951402,
+          -75.190249
+        ],
+        "end_latlng": [
+          39.950086,
+          -75.188785
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756957700,
+      "resource_state": 2,
+      "name": "200ish yards",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2023-02-21T23:22:00Z",
+      "start_date_local": "2023-02-21T18:22:00Z",
+      "distance": 195.7,
+      "start_index": 160,
+      "end_index": 179,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 126.6,
+      "max_heartrate": 130,
+      "segment": {
+        "id": 19226187,
+        "resource_state": 2,
+        "name": "200ish yards",
+        "activity_type": "Run",
+        "distance": 195.7,
+        "average_grade": 1.4,
+        "maximum_grade": 3.8,
+        "elevation_high": 11.6,
+        "elevation_low": 8.8,
+        "start_latlng": [
+          39.951402,
+          -75.190249
+        ],
+        "end_latlng": [
+          39.950086,
+          -75.188785
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758138400,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 804,
+      "moving_time": 324,
+      "start_date": "2023-02-21T23:29:11Z",
+      "start_date_local": "2023-02-21T18:29:11Z",
+      "distance": 1659.4,
+      "start_index": 269,
+      "end_index": 418,
+      "average_cadence": 36.3,
+      "device_watts": false,
+      "average_heartrate": 115,
+      "max_heartrate": 170,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757980700,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2023-02-21T23:38:27Z",
+      "start_date_local": "2023-02-21T18:38:27Z",
+      "distance": 400.4,
+      "start_index": 300,
+      "end_index": 340,
+      "average_cadence": 90.5,
+      "device_watts": false,
+      "average_heartrate": 158.5,
+      "max_heartrate": 170,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757986000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2023-02-21T23:39:53Z",
+      "start_date_local": "2023-02-21T18:39:53Z",
+      "distance": 400.4,
+      "start_index": 340,
+      "end_index": 383,
+      "average_cadence": 91.8,
+      "device_watts": false,
+      "average_heartrate": 165.5,
+      "max_heartrate": 170,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756845000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 77,
+      "moving_time": 77,
+      "start_date": "2023-02-21T23:41:14Z",
+      "start_date_local": "2023-02-21T18:41:14Z",
+      "distance": 400.4,
+      "start_index": 383,
+      "end_index": 417,
+      "average_cadence": 93,
+      "device_watts": false,
+      "average_heartrate": 168,
+      "max_heartrate": 169,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755589600,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 322,
+      "moving_time": 322,
+      "start_date": "2023-02-21T23:42:35Z",
+      "start_date_local": "2023-02-21T18:42:35Z",
+      "distance": 1659.4,
+      "start_index": 418,
+      "end_index": 574,
+      "average_cadence": 91.8,
+      "device_watts": false,
+      "average_heartrate": 173.1,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758587000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2023-02-21T23:42:35Z",
+      "start_date_local": "2023-02-21T18:42:35Z",
+      "distance": 400.4,
+      "start_index": 418,
+      "end_index": 459,
+      "average_cadence": 92.3,
+      "device_watts": false,
+      "average_heartrate": 172.4,
+      "max_heartrate": 174,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757725700,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2023-02-21T23:43:54Z",
+      "start_date_local": "2023-02-21T18:43:54Z",
+      "distance": 400.4,
+      "start_index": 459,
+      "end_index": 497,
+      "average_cadence": 91.4,
+      "device_watts": false,
+      "average_heartrate": 173.6,
+      "max_heartrate": 175,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756165000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2023-02-21T23:45:13Z",
+      "start_date_local": "2023-02-21T18:45:13Z",
+      "distance": 400.4,
+      "start_index": 497,
+      "end_index": 534,
+      "average_cadence": 92.1,
+      "device_watts": false,
+      "average_heartrate": 174.6,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756250000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2023-02-21T23:46:33Z",
+      "start_date_local": "2023-02-21T18:46:33Z",
+      "distance": 400.4,
+      "start_index": 534,
+      "end_index": 573,
+      "average_cadence": 91.3,
+      "device_watts": false,
+      "average_heartrate": 171.8,
+      "max_heartrate": 174,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755113500,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 398,
+      "moving_time": 398,
+      "start_date": "2023-02-21T23:47:55Z",
+      "start_date_local": "2023-02-21T18:47:55Z",
+      "distance": 1659.4,
+      "start_index": 573,
+      "end_index": 701,
+      "average_cadence": 87,
+      "device_watts": false,
+      "average_heartrate": 153.5,
+      "max_heartrate": 173,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756770300,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2023-02-21T23:47:55Z",
+      "start_date_local": "2023-02-21T18:47:55Z",
+      "distance": 400.4,
+      "start_index": 573,
+      "end_index": 608,
+      "average_cadence": 87.6,
+      "device_watts": false,
+      "average_heartrate": 166.6,
+      "max_heartrate": 173,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756870700,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 113,
+      "moving_time": 113,
+      "start_date": "2023-02-21T23:49:33Z",
+      "start_date_local": "2023-02-21T18:49:33Z",
+      "distance": 400.4,
+      "start_index": 608,
+      "end_index": 633,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 143.8,
+      "max_heartrate": 152,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758379000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 104,
+      "start_date": "2023-02-21T23:51:26Z",
+      "start_date_local": "2023-02-21T18:51:26Z",
+      "distance": 400.4,
+      "start_index": 633,
+      "end_index": 665,
+      "average_cadence": 86.7,
+      "device_watts": false,
+      "average_heartrate": 143.6,
+      "max_heartrate": 155,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758160000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2023-02-21T23:53:10Z",
+      "start_date_local": "2023-02-21T18:53:10Z",
+      "distance": 400.4,
+      "start_index": 665,
+      "end_index": 700,
+      "average_cadence": 90.4,
+      "device_watts": false,
+      "average_heartrate": 163.4,
+      "max_heartrate": 169,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757310000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2023-02-21T23:54:29Z",
+      "start_date_local": "2023-02-21T18:54:29Z",
+      "distance": 400.4,
+      "start_index": 700,
+      "end_index": 736,
+      "average_cadence": 90.5,
+      "device_watts": false,
+      "average_heartrate": 168.9,
+      "max_heartrate": 170,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757288400,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 330,
+      "moving_time": 330,
+      "start_date": "2023-02-21T23:54:33Z",
+      "start_date_local": "2023-02-21T18:54:33Z",
+      "distance": 1659.4,
+      "start_index": 701,
+      "end_index": 845,
+      "average_cadence": 90.9,
+      "device_watts": false,
+      "average_heartrate": 171.4,
+      "max_heartrate": 177,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757754400,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2023-02-21T23:55:55Z",
+      "start_date_local": "2023-02-21T18:55:55Z",
+      "distance": 400.4,
+      "start_index": 736,
+      "end_index": 772,
+      "average_cadence": 91,
+      "device_watts": false,
+      "average_heartrate": 168.8,
+      "max_heartrate": 171,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320754898400,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2023-02-21T23:57:16Z",
+      "start_date_local": "2023-02-21T18:57:16Z",
+      "distance": 400.4,
+      "start_index": 772,
+      "end_index": 810,
+      "average_cadence": 91.6,
+      "device_watts": false,
+      "average_heartrate": 173.7,
+      "max_heartrate": 177,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758852000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2023-02-21T23:58:39Z",
+      "start_date_local": "2023-02-21T18:58:39Z",
+      "distance": 400.4,
+      "start_index": 810,
+      "end_index": 844,
+      "average_cadence": 90.7,
+      "device_watts": false,
+      "average_heartrate": 174.4,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758442500,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2023-02-21T23:59:59Z",
+      "start_date_local": "2023-02-21T18:59:59Z",
+      "distance": 400.4,
+      "start_index": 844,
+      "end_index": 883,
+      "average_cadence": 91.3,
+      "device_watts": false,
+      "average_heartrate": 170.4,
+      "max_heartrate": 174,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756076000,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 374,
+      "moving_time": 374,
+      "start_date": "2023-02-22T00:00:03Z",
+      "start_date_local": "2023-02-21T19:00:03Z",
+      "distance": 1659.4,
+      "start_index": 845,
+      "end_index": 985,
+      "average_cadence": 88.9,
+      "device_watts": false,
+      "average_heartrate": 163.2,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758406700,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2023-02-22T00:01:24Z",
+      "start_date_local": "2023-02-21T19:01:24Z",
+      "distance": 400.4,
+      "start_index": 883,
+      "end_index": 920,
+      "average_cadence": 91.9,
+      "device_watts": false,
+      "average_heartrate": 173.6,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758959600,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 97,
+      "moving_time": 97,
+      "start_date": "2023-02-22T00:02:46Z",
+      "start_date_local": "2023-02-21T19:02:46Z",
+      "distance": 400.4,
+      "start_index": 921,
+      "end_index": 957,
+      "average_cadence": 88.3,
+      "device_watts": false,
+      "average_heartrate": 168,
+      "max_heartrate": 173,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756303400,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 114,
+      "moving_time": 114,
+      "start_date": "2023-02-22T00:04:23Z",
+      "start_date_local": "2023-02-21T19:04:23Z",
+      "distance": 400.4,
+      "start_index": 957,
+      "end_index": 985,
+      "average_cadence": 85.6,
+      "device_watts": false,
+      "average_heartrate": 146.6,
+      "max_heartrate": 152,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755644000,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 352,
+      "moving_time": 352,
+      "start_date": "2023-02-22T00:06:17Z",
+      "start_date_local": "2023-02-21T19:06:17Z",
+      "distance": 1659.4,
+      "start_index": 985,
+      "end_index": 1129,
+      "average_cadence": 90.9,
+      "device_watts": false,
+      "average_heartrate": 162,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757917000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 102,
+      "moving_time": 102,
+      "start_date": "2023-02-22T00:06:17Z",
+      "start_date_local": "2023-02-21T19:06:17Z",
+      "distance": 400.4,
+      "start_index": 985,
+      "end_index": 1017,
+      "average_cadence": 88.1,
+      "device_watts": false,
+      "average_heartrate": 145,
+      "max_heartrate": 159,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756798000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2023-02-22T00:07:59Z",
+      "start_date_local": "2023-02-21T19:07:59Z",
+      "distance": 400.4,
+      "start_index": 1017,
+      "end_index": 1055,
+      "average_cadence": 91.5,
+      "device_watts": false,
+      "average_heartrate": 165.8,
+      "max_heartrate": 169,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758746600,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 84,
+      "moving_time": 84,
+      "start_date": "2023-02-22T00:09:22Z",
+      "start_date_local": "2023-02-21T19:09:22Z",
+      "distance": 400.4,
+      "start_index": 1055,
+      "end_index": 1091,
+      "average_cadence": 92.2,
+      "device_watts": false,
+      "average_heartrate": 168,
+      "max_heartrate": 172,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757373400,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2023-02-22T00:10:46Z",
+      "start_date_local": "2023-02-21T19:10:46Z",
+      "distance": 400.4,
+      "start_index": 1091,
+      "end_index": 1129,
+      "average_cadence": 92.4,
+      "device_watts": false,
+      "average_heartrate": 173,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755041000,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 334,
+      "moving_time": 334,
+      "start_date": "2023-02-22T00:12:09Z",
+      "start_date_local": "2023-02-21T19:12:09Z",
+      "distance": 1659.4,
+      "start_index": 1129,
+      "end_index": 1279,
+      "average_cadence": 92,
+      "device_watts": false,
+      "average_heartrate": 174.1,
+      "max_heartrate": 177,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756756000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2023-02-22T00:12:09Z",
+      "start_date_local": "2023-02-21T19:12:09Z",
+      "distance": 400.4,
+      "start_index": 1129,
+      "end_index": 1168,
+      "average_cadence": 92.8,
+      "device_watts": false,
+      "average_heartrate": 175.8,
+      "max_heartrate": 177,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755368400,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2023-02-22T00:13:31Z",
+      "start_date_local": "2023-02-21T19:13:31Z",
+      "distance": 400.4,
+      "start_index": 1168,
+      "end_index": 1206,
+      "average_cadence": 91.3,
+      "device_watts": false,
+      "average_heartrate": 173.3,
+      "max_heartrate": 175,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757519000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2023-02-22T00:14:54Z",
+      "start_date_local": "2023-02-21T19:14:54Z",
+      "distance": 400.4,
+      "start_index": 1207,
+      "end_index": 1245,
+      "average_cadence": 91.4,
+      "device_watts": false,
+      "average_heartrate": 173.5,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755733000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2023-02-22T00:16:19Z",
+      "start_date_local": "2023-02-21T19:16:19Z",
+      "distance": 400.4,
+      "start_index": 1245,
+      "end_index": 1278,
+      "average_cadence": 92.4,
+      "device_watts": false,
+      "average_heartrate": 173.6,
+      "max_heartrate": 175,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756890000,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 545,
+      "moving_time": 378,
+      "start_date": "2023-02-22T00:17:40Z",
+      "start_date_local": "2023-02-21T19:17:40Z",
+      "distance": 1659.4,
+      "start_index": 1278,
+      "end_index": 1430,
+      "average_cadence": 62.5,
+      "device_watts": false,
+      "average_heartrate": 141.5,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755946000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 278,
+      "moving_time": 111,
+      "start_date": "2023-02-22T00:17:40Z",
+      "start_date_local": "2023-02-21T19:17:40Z",
+      "distance": 400.4,
+      "start_index": 1278,
+      "end_index": 1321,
+      "average_cadence": 35.6,
+      "device_watts": false,
+      "average_heartrate": 123.2,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755625500,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 101,
+      "moving_time": 101,
+      "start_date": "2023-02-22T00:22:18Z",
+      "start_date_local": "2023-02-21T19:22:18Z",
+      "distance": 400.4,
+      "start_index": 1321,
+      "end_index": 1352,
+      "average_cadence": 88.6,
+      "device_watts": false,
+      "average_heartrate": 147.8,
+      "max_heartrate": 162,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320754889000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2023-02-22T00:23:59Z",
+      "start_date_local": "2023-02-21T19:23:59Z",
+      "distance": 400.4,
+      "start_index": 1352,
+      "end_index": 1390,
+      "average_cadence": 91.5,
+      "device_watts": false,
+      "average_heartrate": 165.7,
+      "max_heartrate": 171,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758710000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2023-02-22T00:25:22Z",
+      "start_date_local": "2023-02-21T19:25:22Z",
+      "distance": 400.4,
+      "start_index": 1391,
+      "end_index": 1430,
+      "average_cadence": 91.9,
+      "device_watts": false,
+      "average_heartrate": 171.1,
+      "max_heartrate": 175,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758472000,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 332,
+      "moving_time": 332,
+      "start_date": "2023-02-22T00:26:45Z",
+      "start_date_local": "2023-02-21T19:26:45Z",
+      "distance": 1659.4,
+      "start_index": 1430,
+      "end_index": 1585,
+      "average_cadence": 91.5,
+      "device_watts": false,
+      "average_heartrate": 177.4,
+      "max_heartrate": 186,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756420000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2023-02-22T00:26:45Z",
+      "start_date_local": "2023-02-21T19:26:45Z",
+      "distance": 400.4,
+      "start_index": 1430,
+      "end_index": 1467,
+      "average_cadence": 92.7,
+      "device_watts": false,
+      "average_heartrate": 176.1,
+      "max_heartrate": 178,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755904000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2023-02-22T00:28:07Z",
+      "start_date_local": "2023-02-21T19:28:07Z",
+      "distance": 400.4,
+      "start_index": 1467,
+      "end_index": 1507,
+      "average_cadence": 91.8,
+      "device_watts": false,
+      "average_heartrate": 178.4,
+      "max_heartrate": 180,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756718000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2023-02-22T00:29:30Z",
+      "start_date_local": "2023-02-21T19:29:30Z",
+      "distance": 400.4,
+      "start_index": 1507,
+      "end_index": 1545,
+      "average_cadence": 90.9,
+      "device_watts": false,
+      "average_heartrate": 179.3,
+      "max_heartrate": 186,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320757409300,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2023-02-22T00:30:50Z",
+      "start_date_local": "2023-02-21T19:30:50Z",
+      "distance": 400.4,
+      "start_index": 1545,
+      "end_index": 1584,
+      "average_cadence": 90.6,
+      "device_watts": false,
+      "average_heartrate": 175.7,
+      "max_heartrate": 179,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758865400,
+      "resource_state": 2,
+      "name": "Franklin Field Mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 375,
+      "moving_time": 375,
+      "start_date": "2023-02-22T00:32:15Z",
+      "start_date_local": "2023-02-21T19:32:15Z",
+      "distance": 1659.4,
+      "start_index": 1584,
+      "end_index": 1732,
+      "average_cadence": 89.4,
+      "device_watts": false,
+      "average_heartrate": 167.6,
+      "max_heartrate": 180,
+      "segment": {
+        "id": 14441770,
+        "resource_state": 2,
+        "name": "Franklin Field Mile",
+        "activity_type": "Run",
+        "distance": 1659.4,
+        "average_grade": 0,
+        "maximum_grade": 0.8,
+        "elevation_high": 11.9,
+        "elevation_low": 11.5,
+        "start_latlng": [
+          39.950398,
+          -75.189721
+        ],
+        "end_latlng": [
+          39.950454,
+          -75.189787
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755632600,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2023-02-22T00:32:15Z",
+      "start_date_local": "2023-02-21T19:32:15Z",
+      "distance": 400.4,
+      "start_index": 1584,
+      "end_index": 1624,
+      "average_cadence": 91.8,
+      "device_watts": false,
+      "average_heartrate": 174.7,
+      "max_heartrate": 179,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755428000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 102,
+      "moving_time": 102,
+      "start_date": "2023-02-22T00:33:37Z",
+      "start_date_local": "2023-02-21T19:33:37Z",
+      "distance": 400.4,
+      "start_index": 1624,
+      "end_index": 1657,
+      "average_cadence": 87.3,
+      "device_watts": false,
+      "average_heartrate": 175.3,
+      "max_heartrate": 180,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756783600,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 102,
+      "moving_time": 102,
+      "start_date": "2023-02-22T00:35:19Z",
+      "start_date_local": "2023-02-21T19:35:19Z",
+      "distance": 400.4,
+      "start_index": 1657,
+      "end_index": 1689,
+      "average_cadence": 87.4,
+      "device_watts": false,
+      "average_heartrate": 150.6,
+      "max_heartrate": 169,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756401700,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2023-02-22T00:37:04Z",
+      "start_date_local": "2023-02-21T19:37:04Z",
+      "distance": 400.4,
+      "start_index": 1690,
+      "end_index": 1731,
+      "average_cadence": 91.9,
+      "device_watts": false,
+      "average_heartrate": 171.9,
+      "max_heartrate": 176,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756298000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 84,
+      "moving_time": 84,
+      "start_date": "2023-02-22T00:38:27Z",
+      "start_date_local": "2023-02-21T19:38:27Z",
+      "distance": 400.4,
+      "start_index": 1731,
+      "end_index": 1767,
+      "average_cadence": 91.8,
+      "device_watts": false,
+      "average_heartrate": 172.1,
+      "max_heartrate": 174,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756135400,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2023-02-22T00:39:52Z",
+      "start_date_local": "2023-02-21T19:39:52Z",
+      "distance": 400.4,
+      "start_index": 1768,
+      "end_index": 1804,
+      "average_cadence": 92,
+      "device_watts": false,
+      "average_heartrate": 172.6,
+      "max_heartrate": 175,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320758420000,
+      "resource_state": 2,
+      "name": "Franklin Field 400",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 215,
+      "moving_time": 65,
+      "start_date": "2023-02-22T00:41:17Z",
+      "start_date_local": "2023-02-21T19:41:17Z",
+      "distance": 400.4,
+      "start_index": 1804,
+      "end_index": 1833,
+      "average_cadence": 65.6,
+      "device_watts": false,
+      "average_heartrate": 119.8,
+      "max_heartrate": 175,
+      "segment": {
+        "id": 27734734,
+        "resource_state": 2,
+        "name": "Franklin Field 400",
+        "activity_type": "Run",
+        "distance": 400.4,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 12.8,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          39.95038,
+          -75.18972
+        ],
+        "end_latlng": [
+          39.950383,
+          -75.189673
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320756505000,
+      "resource_state": 2,
+      "name": "Locust Walk - 33rd to 40th",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 382,
+      "moving_time": 382,
+      "start_date": "2023-02-22T00:46:00Z",
+      "start_date_local": "2023-02-21T19:46:00Z",
+      "distance": 1070.4,
+      "start_index": 1851,
+      "end_index": 1934,
+      "average_cadence": 84.7,
+      "device_watts": false,
+      "average_heartrate": 139.4,
+      "max_heartrate": 149,
+      "segment": {
+        "id": 8468602,
+        "resource_state": 2,
+        "name": "Locust Walk - 33rd to 40th",
+        "activity_type": "Run",
+        "distance": 1070.4,
+        "average_grade": 1.6,
+        "maximum_grade": 4.5,
+        "elevation_high": 27.8,
+        "elevation_low": 10.4,
+        "start_latlng": [
+          39.951532,
+          -75.190533
+        ],
+        "end_latlng": [
+          39.952886,
+          -75.202758
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3063278320755463700,
+      "resource_state": 2,
+      "name": "34th St to Rodin via Locust Walk",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 235,
+      "moving_time": 235,
+      "start_date": "2023-02-22T00:47:40Z",
+      "start_date_local": "2023-02-21T19:47:40Z",
+      "distance": 775.2,
+      "start_index": 1876,
+      "end_index": 1931,
+      "average_cadence": 84.8,
+      "device_watts": false,
+      "average_heartrate": 142.9,
+      "max_heartrate": 149,
+      "segment": {
+        "id": 9872586,
+        "resource_state": 2,
+        "name": "34th St to Rodin via Locust Walk",
+        "activity_type": "Run",
+        "distance": 775.2,
+        "average_grade": 1.4,
+        "maximum_grade": 4.8,
+        "elevation_high": 27.4,
+        "elevation_low": 16.2,
+        "start_latlng": [
+          39.952699,
+          -75.192575
+        ],
+        "end_latlng": [
+          39.952729,
+          -75.200958
+        ],
+        "elevation_profile": null,
+        "climb_category": 0,
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1013.3,
+      "elapsed_time": 305,
+      "elevation_difference": -5.6,
+      "moving_time": 305,
+      "split": 1,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.31,
+      "average_heartrate": 120.67763157894737,
+      "pace_zone": 1
+    },
+    {
+      "distance": 989.1,
+      "elapsed_time": 535,
+      "elevation_difference": -6.6,
+      "moving_time": 282,
+      "split": 2,
+      "average_speed": 3.51,
+      "average_grade_adjusted_speed": 3.49,
+      "average_heartrate": 126.90391459074733,
+      "pace_zone": 1
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 312,
+      "elevation_difference": -0.9,
+      "moving_time": 289,
+      "split": 3,
+      "average_speed": 3.46,
+      "average_grade_adjusted_speed": 3.47,
+      "average_heartrate": 126.65397923875433,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 733,
+      "elevation_difference": 1.1,
+      "moving_time": 253,
+      "split": 4,
+      "average_speed": 3.96,
+      "average_grade_adjusted_speed": 4,
+      "average_heartrate": 127.20158102766798,
+      "pace_zone": 2
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 205,
+      "elevation_difference": 0.1,
+      "moving_time": 205,
+      "split": 5,
+      "average_speed": 4.87,
+      "average_grade_adjusted_speed": 4.87,
+      "average_heartrate": 158.18536585365854,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1007.6,
+      "elapsed_time": 198,
+      "elevation_difference": 0,
+      "moving_time": 198,
+      "split": 6,
+      "average_speed": 5.09,
+      "average_grade_adjusted_speed": 5.09,
+      "average_heartrate": 171.34848484848484,
+      "pace_zone": 4
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 196,
+      "elevation_difference": -0.3,
+      "moving_time": 196,
+      "split": 7,
+      "average_speed": 5.1,
+      "average_grade_adjusted_speed": 5.1,
+      "average_heartrate": 173.3469387755102,
+      "pace_zone": 4
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 257,
+      "elevation_difference": 0.3,
+      "moving_time": 257,
+      "split": 8,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 3.87,
+      "average_heartrate": 150.3501945525292,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1005,
+      "elapsed_time": 208,
+      "elevation_difference": -0.2,
+      "moving_time": 208,
+      "split": 9,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": 4.83,
+      "average_heartrate": 162.12980769230768,
+      "pace_zone": 3
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 199,
+      "elevation_difference": 0.2,
+      "moving_time": 199,
+      "split": 10,
+      "average_speed": 5,
+      "average_grade_adjusted_speed": 5,
+      "average_heartrate": 171.88442211055278,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 203,
+      "elevation_difference": -0.2,
+      "moving_time": 203,
+      "split": 11,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": 4.94,
+      "average_heartrate": 172.30049261083744,
+      "pace_zone": 4
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 249,
+      "elevation_difference": 0.5,
+      "moving_time": 249,
+      "split": 12,
+      "average_speed": 4.01,
+      "average_grade_adjusted_speed": 4.01,
+      "average_heartrate": 155.86746987951807,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 220,
+      "elevation_difference": 0,
+      "moving_time": 220,
+      "split": 13,
+      "average_speed": 4.56,
+      "average_grade_adjusted_speed": 4.56,
+      "average_heartrate": 159.20909090909092,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 201,
+      "elevation_difference": -0.1,
+      "moving_time": 201,
+      "split": 14,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": 4.99,
+      "average_heartrate": 173.98009950248758,
+      "pace_zone": 4
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 206,
+      "elevation_difference": 0.1,
+      "moving_time": 206,
+      "split": 15,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": 4.84,
+      "average_heartrate": 173.37864077669903,
+      "pace_zone": 3
+    },
+    {
+      "distance": 993.9,
+      "elapsed_time": 404,
+      "elevation_difference": -0.1,
+      "moving_time": 238,
+      "split": 16,
+      "average_speed": 4.18,
+      "average_grade_adjusted_speed": 4.18,
+      "average_heartrate": 153.47257383966246,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1006.4,
+      "elapsed_time": 207,
+      "elevation_difference": 0.2,
+      "moving_time": 207,
+      "split": 17,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": 4.87,
+      "average_heartrate": 169.52173913043478,
+      "pace_zone": 4
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 199,
+      "elevation_difference": -0.1,
+      "moving_time": 199,
+      "split": 18,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": 5.02,
+      "average_heartrate": 178.43718592964825,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1010.5,
+      "elapsed_time": 207,
+      "elevation_difference": 0,
+      "moving_time": 207,
+      "split": 19,
+      "average_speed": 4.88,
+      "average_grade_adjusted_speed": 4.88,
+      "average_heartrate": 175.67632850241546,
+      "pace_zone": 4
+    },
+    {
+      "distance": 983.3,
+      "elapsed_time": 239,
+      "elevation_difference": 0.1,
+      "moving_time": 239,
+      "split": 20,
+      "average_speed": 4.11,
+      "average_grade_adjusted_speed": 4.12,
+      "average_heartrate": 163.35564853556485,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 211,
+      "elevation_difference": 0,
+      "moving_time": 211,
+      "split": 21,
+      "average_speed": 4.74,
+      "average_grade_adjusted_speed": 4.75,
+      "average_heartrate": 172.60663507109004,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 475,
+      "elevation_difference": 13,
+      "moving_time": 325,
+      "split": 22,
+      "average_speed": 3.08,
+      "average_grade_adjusted_speed": 3.21,
+      "average_heartrate": 137.84307692307692,
+      "pace_zone": 1
+    },
+    {
+      "distance": 770,
+      "elapsed_time": 236,
+      "elevation_difference": -1.9,
+      "moving_time": 236,
+      "split": 23,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.27,
+      "average_heartrate": 138.85593220338984,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.4,
+      "elapsed_time": 486,
+      "elevation_difference": -11.4,
+      "moving_time": 472,
+      "split": 1,
+      "average_speed": 3.42,
+      "average_grade_adjusted_speed": 3.39,
+      "average_heartrate": 122.83617021276596,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 729,
+      "elevation_difference": -0.6,
+      "moving_time": 467,
+      "split": 2,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.46,
+      "average_heartrate": 126.32334047109208,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1617.2,
+      "elapsed_time": 843,
+      "elevation_difference": 0,
+      "moving_time": 363,
+      "split": 3,
+      "average_speed": 4.46,
+      "average_grade_adjusted_speed": 4.47,
+      "average_heartrate": 141.80440771349862,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 313,
+      "elevation_difference": 0.1,
+      "moving_time": 313,
+      "split": 4,
+      "average_speed": 5.13,
+      "average_grade_adjusted_speed": 5.13,
+      "average_heartrate": 171.92332268370606,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 381,
+      "elevation_difference": -0.1,
+      "moving_time": 381,
+      "split": 5,
+      "average_speed": 4.21,
+      "average_grade_adjusted_speed": 4.22,
+      "average_heartrate": 156.50656167979002,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1612,
+      "elapsed_time": 327,
+      "elevation_difference": -0.1,
+      "moving_time": 327,
+      "split": 6,
+      "average_speed": 4.93,
+      "average_grade_adjusted_speed": 4.93,
+      "average_heartrate": 166.03363914373088,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 325,
+      "elevation_difference": 0,
+      "moving_time": 325,
+      "split": 7,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": 4.94,
+      "average_heartrate": 172.97538461538463,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 389,
+      "elevation_difference": 0.6,
+      "moving_time": 389,
+      "split": 8,
+      "average_speed": 4.14,
+      "average_grade_adjusted_speed": 4.14,
+      "average_heartrate": 154.6272493573265,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 326,
+      "elevation_difference": 0,
+      "moving_time": 326,
+      "split": 9,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": 4.95,
+      "average_heartrate": 173.30368098159508,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 532,
+      "elevation_difference": -0.1,
+      "moving_time": 366,
+      "split": 10,
+      "average_speed": 4.4,
+      "average_grade_adjusted_speed": 4.4,
+      "average_heartrate": 159.88219178082193,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 326,
+      "elevation_difference": -0.2,
+      "moving_time": 326,
+      "split": 11,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": 4.94,
+      "average_heartrate": 173.46319018404907,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 351,
+      "elevation_difference": 0.1,
+      "moving_time": 351,
+      "split": 12,
+      "average_speed": 4.6,
+      "average_grade_adjusted_speed": 4.6,
+      "average_heartrate": 175.76353276353277,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1614.9,
+      "elapsed_time": 352,
+      "elevation_difference": -0.1,
+      "moving_time": 352,
+      "split": 13,
+      "average_speed": 4.59,
+      "average_grade_adjusted_speed": 4.59,
+      "average_heartrate": 166.17329545454547,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1619,
+      "elapsed_time": 658,
+      "elevation_difference": 16.1,
+      "moving_time": 508,
+      "split": 14,
+      "average_speed": 3.19,
+      "average_grade_adjusted_speed": 3.29,
+      "average_heartrate": 140.10236220472441,
+      "pace_zone": 1
+    },
+    {
+      "distance": 217.8,
+      "elapsed_time": 67,
+      "elevation_difference": -4.7,
+      "moving_time": 67,
+      "split": 15,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": 3.11,
+      "average_heartrate": 131.88059701492537,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 29068018927,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 485,
+      "moving_time": 471,
+      "start_date": "2023-02-21T23:06:43Z",
+      "start_date_local": "2023-02-21T18:06:43Z",
+      "distance": 1609.34,
+      "start_index": 0,
+      "end_index": 98,
+      "total_elevation_gain": 8.3,
+      "average_speed": 3.42,
+      "max_speed": 5.463,
+      "average_cadence": 84.8,
+      "device_watts": false,
+      "average_heartrate": 122.8,
+      "max_heartrate": 142,
+      "lap_index": 1,
+      "split": 1,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068018930,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 729,
+      "moving_time": 468,
+      "start_date": "2023-02-21T23:14:50Z",
+      "start_date_local": "2023-02-21T18:14:50Z",
+      "distance": 1609.34,
+      "start_index": 99,
+      "end_index": 235,
+      "total_elevation_gain": 7.2,
+      "average_speed": 3.44,
+      "max_speed": 4.812,
+      "average_cadence": 84.8,
+      "device_watts": false,
+      "average_heartrate": 126.3,
+      "max_heartrate": 143,
+      "lap_index": 2,
+      "split": 2,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068018933,
+      "resource_state": 2,
+      "name": "Lap 3",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 652,
+      "moving_time": 173,
+      "start_date": "2023-02-21T23:27:00Z",
+      "start_date_local": "2023-02-21T18:27:00Z",
+      "distance": 692.91,
+      "start_index": 236,
+      "end_index": 281,
+      "total_elevation_gain": 0,
+      "average_speed": 4.01,
+      "max_speed": 4.48,
+      "average_cadence": 85,
+      "device_watts": false,
+      "average_heartrate": 131.7,
+      "max_heartrate": 138,
+      "lap_index": 3,
+      "split": 3,
+      "pace_zone": 2
+    },
+    {
+      "id": 29068018938,
+      "resource_state": 2,
+      "name": "Lap 4",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 325,
+      "moving_time": 325,
+      "start_date": "2023-02-21T23:37:54Z",
+      "start_date_local": "2023-02-21T18:37:54Z",
+      "distance": 1609.34,
+      "start_index": 282,
+      "end_index": 438,
+      "total_elevation_gain": 0,
+      "average_speed": 4.95,
+      "max_speed": 6.022,
+      "average_cadence": 92.3,
+      "device_watts": false,
+      "average_heartrate": 159.3,
+      "max_heartrate": 173,
+      "lap_index": 4,
+      "split": 4,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068018945,
+      "resource_state": 2,
+      "name": "Lap 5",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 315,
+      "moving_time": 315,
+      "start_date": "2023-02-21T23:43:20Z",
+      "start_date_local": "2023-02-21T18:43:20Z",
+      "distance": 1609.34,
+      "start_index": 439,
+      "end_index": 589,
+      "total_elevation_gain": 0,
+      "average_speed": 5.11,
+      "max_speed": 5.71,
+      "average_cadence": 91.5,
+      "device_watts": false,
+      "average_heartrate": 172.9,
+      "max_heartrate": 176,
+      "lap_index": 5,
+      "split": 5,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068018949,
+      "resource_state": 2,
+      "name": "Lap 6",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 9,
+      "moving_time": 9,
+      "start_date": "2023-02-21T23:48:33Z",
+      "start_date_local": "2023-02-21T18:48:33Z",
+      "distance": 43.24,
+      "start_index": 590,
+      "end_index": 593,
+      "total_elevation_gain": 0,
+      "average_speed": 4.8,
+      "max_speed": 5.26,
+      "average_cadence": 90.5,
+      "device_watts": false,
+      "average_heartrate": 170.8,
+      "max_heartrate": 171,
+      "lap_index": 6,
+      "split": 6,
+      "pace_zone": 3
+    },
+    {
+      "id": 29068018957,
+      "resource_state": 2,
+      "name": "Lap 7",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 230,
+      "moving_time": 230,
+      "start_date": "2023-02-21T23:48:44Z",
+      "start_date_local": "2023-02-21T18:48:44Z",
+      "distance": 856.53,
+      "start_index": 594,
+      "end_index": 647,
+      "total_elevation_gain": 0,
+      "average_speed": 3.72,
+      "max_speed": 4.495,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 146.8,
+      "max_heartrate": 171,
+      "lap_index": 7,
+      "split": 7,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068018964,
+      "resource_state": 2,
+      "name": "Lap 8",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 326,
+      "moving_time": 326,
+      "start_date": "2023-02-21T23:52:35Z",
+      "start_date_local": "2023-02-21T18:52:35Z",
+      "distance": 1609.34,
+      "start_index": 648,
+      "end_index": 791,
+      "total_elevation_gain": 0,
+      "average_speed": 4.94,
+      "max_speed": 5.966,
+      "average_cadence": 90.8,
+      "device_watts": false,
+      "average_heartrate": 165.9,
+      "max_heartrate": 174,
+      "lap_index": 8,
+      "split": 8,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068018967,
+      "resource_state": 2,
+      "name": "Lap 9",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 3,
+      "moving_time": 3,
+      "start_date": "2023-02-21T23:58:00Z",
+      "start_date_local": "2023-02-21T18:58:00Z",
+      "distance": 16.52,
+      "start_index": 792,
+      "end_index": 793,
+      "total_elevation_gain": 0,
+      "average_speed": 5.51,
+      "max_speed": 5.042,
+      "average_cadence": 91,
+      "device_watts": false,
+      "average_heartrate": 173,
+      "max_heartrate": 174,
+      "lap_index": 9,
+      "split": 9,
+      "pace_zone": 6
+    },
+    {
+      "id": 29068018975,
+      "resource_state": 2,
+      "name": "Lap 10",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 324,
+      "moving_time": 324,
+      "start_date": "2023-02-21T23:58:04Z",
+      "start_date_local": "2023-02-21T18:58:04Z",
+      "distance": 1609.34,
+      "start_index": 794,
+      "end_index": 940,
+      "total_elevation_gain": 0,
+      "average_speed": 4.97,
+      "max_speed": 6.662,
+      "average_cadence": 91.4,
+      "device_watts": false,
+      "average_heartrate": 173,
+      "max_heartrate": 177,
+      "lap_index": 10,
+      "split": 10,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068018979,
+      "resource_state": 2,
+      "name": "Lap 11",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 232,
+      "moving_time": 232,
+      "start_date": "2023-02-22T00:03:34Z",
+      "start_date_local": "2023-02-21T19:03:34Z",
+      "distance": 861.41,
+      "start_index": 942,
+      "end_index": 998,
+      "total_elevation_gain": 0,
+      "average_speed": 3.71,
+      "max_speed": 4.909,
+      "average_cadence": 85.3,
+      "device_watts": false,
+      "average_heartrate": 149,
+      "max_heartrate": 173,
+      "lap_index": 11,
+      "split": 11,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068018985,
+      "resource_state": 2,
+      "name": "Lap 12",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 326,
+      "moving_time": 326,
+      "start_date": "2023-02-22T00:07:27Z",
+      "start_date_local": "2023-02-21T19:07:27Z",
+      "distance": 1609.34,
+      "start_index": 999,
+      "end_index": 1149,
+      "total_elevation_gain": 0,
+      "average_speed": 4.94,
+      "max_speed": 6.168,
+      "average_cadence": 92.4,
+      "device_watts": false,
+      "average_heartrate": 168,
+      "max_heartrate": 176,
+      "lap_index": 12,
+      "split": 12,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068018993,
+      "resource_state": 2,
+      "name": "Lap 13",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 330,
+      "moving_time": 330,
+      "start_date": "2023-02-22T00:12:53Z",
+      "start_date_local": "2023-02-21T19:12:53Z",
+      "distance": 1609.34,
+      "start_index": 1151,
+      "end_index": 1298,
+      "total_elevation_gain": 0,
+      "average_speed": 4.88,
+      "max_speed": 5.656,
+      "average_cadence": 91.9,
+      "device_watts": false,
+      "average_heartrate": 174,
+      "max_heartrate": 177,
+      "lap_index": 13,
+      "split": 13,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068018996,
+      "resource_state": 2,
+      "name": "Lap 14",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 2,
+      "moving_time": 2,
+      "start_date": "2023-02-22T00:18:24Z",
+      "start_date_local": "2023-02-21T19:18:24Z",
+      "distance": 14.93,
+      "start_index": 1299,
+      "end_index": 1300,
+      "total_elevation_gain": 0,
+      "average_speed": 7.47,
+      "max_speed": 5.223,
+      "average_cadence": 93,
+      "device_watts": false,
+      "average_heartrate": 176,
+      "max_heartrate": 176,
+      "lap_index": 14,
+      "split": 14,
+      "pace_zone": 6
+    },
+    {
+      "id": 29068019001,
+      "resource_state": 2,
+      "name": "Lap 15",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 293,
+      "moving_time": 129,
+      "start_date": "2023-02-22T00:18:29Z",
+      "start_date_local": "2023-02-21T19:18:29Z",
+      "distance": 455.2,
+      "start_index": 1301,
+      "end_index": 1335,
+      "total_elevation_gain": 0,
+      "average_speed": 3.53,
+      "max_speed": 4.47,
+      "average_cadence": 86.3,
+      "device_watts": false,
+      "average_heartrate": 140.8,
+      "max_heartrate": 176,
+      "lap_index": 15,
+      "split": 15,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068019008,
+      "resource_state": 2,
+      "name": "Lap 16",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 328,
+      "moving_time": 328,
+      "start_date": "2023-02-22T00:23:22Z",
+      "start_date_local": "2023-02-21T19:23:22Z",
+      "distance": 1609.34,
+      "start_index": 1336,
+      "end_index": 1485,
+      "total_elevation_gain": 0,
+      "average_speed": 4.91,
+      "max_speed": 5.646,
+      "average_cadence": 92,
+      "device_watts": false,
+      "average_heartrate": 169.8,
+      "max_heartrate": 179,
+      "lap_index": 16,
+      "split": 16,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068019015,
+      "resource_state": 2,
+      "name": "Lap 17",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 326,
+      "moving_time": 326,
+      "start_date": "2023-02-22T00:28:52Z",
+      "start_date_local": "2023-02-21T19:28:52Z",
+      "distance": 1609.34,
+      "start_index": 1487,
+      "end_index": 1642,
+      "total_elevation_gain": 0,
+      "average_speed": 4.94,
+      "max_speed": 6.008,
+      "average_cadence": 91.3,
+      "device_watts": false,
+      "average_heartrate": 177,
+      "max_heartrate": 186,
+      "lap_index": 17,
+      "split": 17,
+      "pace_zone": 4
+    },
+    {
+      "id": 29068019018,
+      "resource_state": 2,
+      "name": "Lap 18",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 5,
+      "moving_time": 5,
+      "start_date": "2023-02-22T00:34:22Z",
+      "start_date_local": "2023-02-21T19:34:22Z",
+      "distance": 26.11,
+      "start_index": 1643,
+      "end_index": 1644,
+      "total_elevation_gain": 0,
+      "average_speed": 5.22,
+      "max_speed": 5.376,
+      "average_cadence": 94,
+      "device_watts": false,
+      "average_heartrate": 179,
+      "max_heartrate": 179,
+      "lap_index": 18,
+      "split": 18,
+      "pace_zone": 5
+    },
+    {
+      "id": 29068019020,
+      "resource_state": 2,
+      "name": "Lap 19",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 125,
+      "moving_time": 125,
+      "start_date": "2023-02-22T00:34:26Z",
+      "start_date_local": "2023-02-21T19:34:26Z",
+      "distance": 420.15,
+      "start_index": 1645,
+      "end_index": 1675,
+      "total_elevation_gain": 0,
+      "average_speed": 3.36,
+      "max_speed": 5.099,
+      "average_cadence": 83.3,
+      "device_watts": false,
+      "average_heartrate": 159.4,
+      "max_heartrate": 180,
+      "lap_index": 19,
+      "split": 19,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068019024,
+      "resource_state": 2,
+      "name": "Lap 20",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 334,
+      "moving_time": 334,
+      "start_date": "2023-02-22T00:36:33Z",
+      "start_date_local": "2023-02-21T19:36:33Z",
+      "distance": 1605.29,
+      "start_index": 1676,
+      "end_index": 1825,
+      "total_elevation_gain": 0,
+      "average_speed": 4.81,
+      "max_speed": 5.856,
+      "average_cadence": 92.2,
+      "device_watts": false,
+      "average_heartrate": 171,
+      "max_heartrate": 176,
+      "lap_index": 20,
+      "split": 20,
+      "pace_zone": 3
+    },
+    {
+      "id": 29068019030,
+      "resource_state": 2,
+      "name": "Lap 21",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 670,
+      "moving_time": 520,
+      "start_date": "2023-02-22T00:42:06Z",
+      "start_date_local": "2023-02-21T19:42:06Z",
+      "distance": 1609.34,
+      "start_index": 1826,
+      "end_index": 1934,
+      "total_elevation_gain": 21,
+      "average_speed": 3.09,
+      "max_speed": 4.458,
+      "average_cadence": 84.7,
+      "device_watts": false,
+      "average_heartrate": 136.5,
+      "max_heartrate": 175,
+      "lap_index": 21,
+      "split": 21,
+      "pace_zone": 1
+    },
+    {
+      "id": 29068019032,
+      "resource_state": 2,
+      "name": "Lap 22",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 14,
+      "moving_time": 14,
+      "start_date": "2023-02-22T00:53:19Z",
+      "start_date_local": "2023-02-21T19:53:19Z",
+      "distance": 44.21,
+      "start_index": 1934,
+      "end_index": 1934,
+      "total_elevation_gain": 0,
+      "average_speed": 3.16,
+      "max_speed": 2.922,
+      "average_cadence": 83.3,
+      "device_watts": false,
+      "average_heartrate": 130.3,
+      "max_heartrate": 131,
+      "lap_index": 22,
+      "split": 22,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 24413592056,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 77,
+      "start_date": "2023-02-21T23:44:08Z",
+      "start_date_local": "2023-02-21T18:44:08Z",
+      "distance": 400,
+      "start_index": 464,
+      "end_index": 503,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592068,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 155,
+      "moving_time": 156,
+      "start_date": "2023-02-21T23:43:26Z",
+      "start_date_local": "2023-02-21T18:43:26Z",
+      "distance": 805,
+      "start_index": 444,
+      "end_index": 520,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592084,
+      "resource_state": 2,
+      "name": "1k",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 194,
+      "moving_time": 195,
+      "start_date": "2023-02-21T23:42:44Z",
+      "start_date_local": "2023-02-21T18:42:44Z",
+      "distance": 1000,
+      "start_index": 422,
+      "end_index": 519,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592098,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 313,
+      "moving_time": 314,
+      "start_date": "2023-02-21T23:40:54Z",
+      "start_date_local": "2023-02-21T18:40:54Z",
+      "distance": 1609,
+      "start_index": 374,
+      "end_index": 523,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592121,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 640,
+      "moving_time": 641,
+      "start_date": "2023-02-21T23:37:54Z",
+      "start_date_local": "2023-02-21T18:37:54Z",
+      "distance": 3219,
+      "start_index": 282,
+      "end_index": 591,
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": 24413592135,
+      "resource_state": 2,
+      "name": "5k",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 1057,
+      "moving_time": 1058,
+      "start_date": "2023-02-21T23:40:26Z",
+      "start_date_local": "2023-02-21T18:40:26Z",
+      "distance": 5000,
+      "start_index": 359,
+      "end_index": 794,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592150,
+      "resource_state": 2,
+      "name": "10k",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 2132,
+      "moving_time": 2133,
+      "start_date": "2023-02-21T23:39:36Z",
+      "start_date_local": "2023-02-21T18:39:36Z",
+      "distance": 10000,
+      "start_index": 335,
+      "end_index": 1214,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592171,
+      "resource_state": 2,
+      "name": "15k",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 3356,
+      "moving_time": 3190,
+      "start_date": "2023-02-21T23:37:50Z",
+      "start_date_local": "2023-02-21T18:37:50Z",
+      "distance": 15000,
+      "start_index": 280,
+      "end_index": 1627,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592185,
+      "resource_state": 2,
+      "name": "10 mile",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 3616,
+      "moving_time": 3450,
+      "start_date": "2023-02-21T23:37:50Z",
+      "start_date_local": "2023-02-21T18:37:50Z",
+      "distance": 16090,
+      "start_index": 280,
+      "end_index": 1722,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592203,
+      "resource_state": 2,
+      "name": "20k",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 5307,
+      "moving_time": 4511,
+      "start_date": "2023-02-21T23:24:09Z",
+      "start_date_local": "2023-02-21T18:24:09Z",
+      "distance": 20000,
+      "start_index": 192,
+      "end_index": 1934,
+      "pr_rank": null,
+      "achievements": []
+    },
+    {
+      "id": 24413592226,
+      "resource_state": 2,
+      "name": "Half-Marathon",
+      "activity": {
+        "id": 8601593184,
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 7786466,
+        "resource_state": 1
+      },
+      "elapsed_time": 5704,
+      "moving_time": 4781,
+      "start_date": "2023-02-21T23:06:57Z",
+      "start_date_local": "2023-02-21T18:06:57Z",
+      "distance": 21097,
+      "start_index": 0,
+      "end_index": 1825,
+      "pr_rank": null,
+      "achievements": []
+    }
+  ],
+  "gear": {
+    "id": "g5583182",
+    "primary": false,
+    "name": "adidas Adizero Adios 4 Adios 4",
+    "nickname": "Adios 4",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 270522,
+    "converted_distance": 168.1
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "device_name": "Garmin Forerunner 45",
+  "embed_token": "df2ccc8fa35a1777dedf23c3413b0c02a3a65806",
+  "similar_activities": {
+    "effort_count": 2,
+    "average_speed": 4.156958088235294,
+    "min_average_speed": 4.043743946087696,
+    "mid_average_speed": 4.153442850932791,
+    "max_average_speed": 4.269259555446194,
+    "pr_rank": 1,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        4.043743946087696,
+        4.153442850932791
+      ],
+      "current_activity_index": 1,
+      "min_speed": 4.043743946087696,
+      "mid_speed": 4.153442850932791,
+      "max_speed": 4.269259555446194,
+      "direction": 1
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
 }
     ]
 }
