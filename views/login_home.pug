@@ -1,0 +1,10 @@
+html
+    head
+        title= title 
+    body 
+        h1= bodyMessage
+        form(action="/parse_activity" method="get")
+            p
+                | Activity ID:
+                input(name='activityID' id='activityID' type='text')
+            input(value='Submit', type='submit')
